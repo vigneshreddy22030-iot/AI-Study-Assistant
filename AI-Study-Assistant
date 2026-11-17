@@ -1,0 +1,9 @@
+AI-Study-Assistant/
+│
+├── main.py
+├── test_main.py
+├── Dockerfile
+├── requirements.txt
+└── .github/
+    └── workflows/
+        └── test.yml
